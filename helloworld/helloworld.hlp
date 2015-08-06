@@ -1,11 +1,11 @@
 {smcl}
-{cmd:help pkgcommand} {right:also see:  {help net }}
+{cmd:help helloworld} {right:also see:  {help net }}
 {hline}
 
 {title:Title}
 
 {p2colset 5 17 19 2}{...}
-{p2col :{hi: pkgcommand} {hline 2}}Description of pkgcommand from pkgname.
+{p2col :{hi: helloworld} {hline 2}}Description of helloworld from helloworld.
 {p2colreset}{...}
 
 {title:Author}

@@ -7,10 +7,22 @@ My GitHub account is setup with a URL redirection to my personal domain (thomasl
 You can use the following commands:
 
 ```
-* net from the site
+* net FROM THE SITE
 . net describe helloworld, from(http://thomasleeper.com/statapkg/)
 
-* This could alternatively be:
+* SEE WHAT'S IN THE PACKAGE DIRECTORY
+. net
+------------------------------------------------------------------------------------------------------
+http://thomasleeper.com/statapkg/
+Some kind of package title and maybe your name
+------------------------------------------------------------------------------------------------------
+
+PACKAGES you could -net describe-:
+    helloworld        Package description
+------------------------------------------------------------------------------------------------------
+
+
+* THIS COULD ALTERNATIVELY BE:
 * . net describe helloworld, from(http://leeper.github.io/statpkg/)
 ------------------------------------------------------------------------------------------------------
 package helloworld from http://thomasleeper.com/statapkg
@@ -30,13 +42,13 @@ INSTALLATION FILES                           (type net install helloworld)
 ------------------------------------------------------------------------------------------------------
 
 
-* install the helloworld package from the site
+* INSTALL THE helloworld PACKAGE FROM THE SITE
 . net install helloworld
 checking helloworld consistency and verifying not already installed...
 installing into c:\ado\plus\...
 installation complete.
 
-* run the command
+* RUN THE COMMAND
 . helloworld
 hello world!
 ```
