@@ -1,0 +1,6 @@
+d helloworld | Package Description
+d Distribution-date: 2014-05-29
+d Author Name (Author Email)
+d More details
+f helloworld/helloworld.ado
+f helloworld/helloworld.hlp
