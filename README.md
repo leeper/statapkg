@@ -7,6 +7,7 @@ You can use the following commands:
 ```Stata
 * net from the site
 net from http://leeper.github.io/statapkg
+net describe helloworld
 
 * install the helloworld package from the site
 net install helloworld, from(http://leeper.github.io/statapkg)
