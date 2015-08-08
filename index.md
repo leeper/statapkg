@@ -1,4 +1,9 @@
-# Installing Stata Packages from GitHub
+---
+layout: default
+title: Installing Stata Packages from GitHub Pages
+---
+
+# Installing Stata Packages from GitHub Pages
 
 This site contains a Stata package directory with two Stata programs: `helloworld` and `goodbyeworld`.
 
