@@ -1,4 +1,5 @@
 v 3
-d Some kind of package title and maybe your name
+d Thomas Leeper's Stata Package Repository
 p helloworld Package description
 p goodbyeworld Package description
+p ciplotm Modified Version of Nick Cox's 'ciplot' ado

@@ -1,6 +1,5 @@
-d helloworld | Package Description
-d Distribution-date: 2014-05-29
-d Author Name (Author Email)
-d More details
+d helloworld | A "hello world" demonstration
+d Distribution-date: 2015-08-11
+d Thomas J. Leeper (thosjleeper@gmail.com)
 f helloworld/helloworld.ado
-f helloworld/helloworld.hlp
+f helloworld/helloworld.sthlp

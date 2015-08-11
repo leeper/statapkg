@@ -1,6 +1,5 @@
-d goodbyeworld | Package Description
-d Distribution-date: 2014-05-29
-d Author Name (Author Email)
-d More details
+d goodbyeworld | A "goodbye world" demonstration
+d Distribution-date: 2015-08-1
+d Thomas J. Leeper (thosjleeper@gmail.com)
 f goodbyeworld/goodbyeworld.ado
-f goodbyeworld/goodbyeworld.hlp
+f goodbyeworld/goodbyeworld.sthlp

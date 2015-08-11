@@ -1,0 +1,5 @@
+d ciplotm | Modified Version of Nick Cox's 'ciplot' ado
+d Distribution-date: 2015-08-11
+d Thomas J. Leeper (thosjleeper@gmail.com)
+f ciplotm/ciplotm.ado
+f ciplotm/ciplotm.sthlp
