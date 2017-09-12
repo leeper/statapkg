@@ -8,7 +8,7 @@
 * NJC 1.0.0 10 February 2003
 * cihplot 1.0.4 NJC 30 May 1999 
 program ciplotm, sortpreserve rclass 
-	version 13.0 
+	version 8.1
 	syntax varlist(numeric) [if] [in] [aweight fweight]        ///
 	[ , BY(varname) SEPby LEVel(integer $S_level) Poisson BINomial   ///
 	Exposure(varname) EXAct Jeffreys Wilson Agresti Total      ///
